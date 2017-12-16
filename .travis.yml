@@ -1,0 +1,15 @@
+sudo: required
+services:
+  - docker
+language: c
+script:
+  - docker pull ajdz/mdbook-build:0.1.0
+before_deploy:
+  - docker run -v "$PWD":/src ajdz/mdbook-build:0.1.0
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: book
+  on:
+    branch: master

@@ -1,0 +1,7 @@
+[book]
+title="Aldrin's Notebook > All the rest"
+author="Aldrin J D'Souza"
+description="This book records notes from the books I've read"
+[output.html]
+curly-quotes=true
+google-analytics="UA-37780098-2"
