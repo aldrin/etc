@@ -2,8 +2,7 @@
 
 #### 21 Dec, 2017
 
-How do you transform a simple poem to an ode to the divine art of music?
-Just add Schubert.
+How do you transform a simple poem to an ode? Just add Schubert.
 
 ```
 An die Musik
@@ -46,7 +45,8 @@ You, lovely Art, I thank you!
 ```
 
 As is typically the case with words, all of this sounds quite pedestrian. 
-Then, Schubert picks them up, and entrückts us to some place else.
+
+Then, Schubert picks it up, and entrückts us to some place else.
 
 <p style="text-align:center">
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/H9TlAOKCmaQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
