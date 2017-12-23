@@ -51,5 +51,5 @@ My translation, obviously, does not capture the essence of the poem.
 To do that, you need to listen to Kumar*ji* sing it.
 
 <p style="text-align:center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ikyu46f9Ngg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ikyu46f9Ngg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </p>
