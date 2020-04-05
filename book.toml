@@ -1,7 +1,6 @@
 [book]
 title="Aldrin's Notebook > All the rest"
 author="Aldrin J D'Souza"
-description="This book records notes from the books I've read"
+description="These pages contain my notes from things unrelated to work."
 [output.html]
 curly-quotes=true
-google-analytics="UA-37780098-2"

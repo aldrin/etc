@@ -3,9 +3,9 @@ services:
   - docker
 language: c
 script:
-  - docker pull ajdz/mdbook:0.1.0
+  - docker pull ajdz/mdbook:0.2.0
 before_deploy:
-  - docker run -v "$PWD":/src ajdz/mdbook:0.1.0 sh -c "cd /src && mdbook build"
+  - docker run -v "$PWD":/src ajdz/mdbook:0.2.0 sh -c "cd /src && mdbook build"
 deploy:
   provider: pages
   skip_cleanup: true
